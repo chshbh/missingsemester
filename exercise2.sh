@@ -12,4 +12,9 @@ ls -lah --color=always --sort=time
 # exercise.capturefailure.sh
 
 # E4
+find . -name '*.html' | xargs -d "\n" tar -cvzf archive
+
+# E5
+find . -type f -printf '%T@ %p\n' | sort -n | cut -d " " -f 2
+
 
