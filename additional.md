@@ -1,7 +1,9 @@
 # Additional Resources
 
 > taken from the course itself + my recommendation for 3 credit course
+
 > *type* :: tutorials + guide + faqs + reference + cheatsheets
+
 > *format* :: text file + video
 
 ## quicklink references (in order)
